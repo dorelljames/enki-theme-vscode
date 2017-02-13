@@ -1,0 +1,48 @@
+{
+  "name": "enki-theme-vscode",
+  "displayName": "Enki Theme",
+  "description": "Enki Theme - A dark theme for Sublime Text ported to Visual Studio Code",
+  "version": "0.1.0",
+  "license": "MIT",
+  "publisher": "dorelljames",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Enki",
+        "uiTheme": "vs-dark",
+        "path": "./scheme/Enki.tmTheme"
+      },
+      {
+        "label": "Enki Alt",
+        "uiTheme": "vs-dark",
+        "path": "./scheme/Enki-Alt.tmTheme"
+      },
+      {
+        "label": "Enki Light",
+        "uiTheme": "vs-light",
+        "path": "./scheme/Enki-Light.tmTheme"
+      },
+      {
+        "label": "Enki Aster",
+        "uiTheme": "vs-dark",
+        "path": "./scheme/Enki-Aster.tmTheme"
+      },
+      {
+        "label": "Enki Aster Red",
+        "uiTheme": "vs-dark",
+        "path": "./scheme/Enki-Aster-red.tmTheme"
+      },
+      {
+        "label": "Enki Old",
+        "uiTheme": "vs-dark",
+        "path": "./scheme/Enki-old.tmTheme"
+      }
+    ]
+  }
+}
