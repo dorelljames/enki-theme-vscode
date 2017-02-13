@@ -4,17 +4,31 @@ A color scheme and UI theme originally for **Sublime Text** (ported to **Visual 
 
 This was the project of [enkia](https://github.com/enkia/enki-theme) so all credits goes to him/her. I was already using this theme locally and I simply loved it so I thought why not share it with love? Thanks so much for your awesome work. :)
 
+Hope you'll love it too. <3
+
 ## Screenshots
+
+
+### React
 
 ![React](https://raw.githubusercontent.com/dorelljames/enki-theme-vscode/master/static/images/react.png)
 
-![PHP](https://raw.githubusercontent.com/dorelljames/enki-theme-vscode/master/static/images/html.png)
+### PHP (Laravel)
+
+![PHP](https://raw.githubusercontent.com/dorelljames/enki-theme-vscode/master/static/images/php.png)
+
+### HTML
 
 ![HTML](https://raw.githubusercontent.com/dorelljames/enki-theme-vscode/master/static/images/html.png)
 
+### CSS
+
 ![CSS](https://raw.githubusercontent.com/dorelljames/enki-theme-vscode/master/static/images/css.png)
 
+### Markdown
+
 ![Markdown](https://raw.githubusercontent.com/dorelljames/enki-theme-vscode/master/static/images/markdown.png)
+
 
 ## Font
 
