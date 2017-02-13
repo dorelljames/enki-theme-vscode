@@ -20,3 +20,6 @@ This was the project of [enkia](https://github.com/enkia/enki-theme) so all cred
 
 - Operator Mono
 
+## Credits
+
+- [Enki Theme](https://github.com/enkia/enki-theme)
