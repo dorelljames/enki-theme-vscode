@@ -1,4 +1,4 @@
-# Enki Theme (Material Design Inspired)
+# Enki Theme (Material Design Inspired) [![VS Code marketplace button](http://vsmarketplacebadge.apphb.com/installs/dorelljames.enki-theme-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=dorelljames.enki-theme-vscode.svg)
 
 A color scheme and UI theme originally for **Sublime Text** (ported to **Visual Studio Code**) with clear, disparate colors to help differentiate between all syntactic aspects of code, including syntax highlighting for the console.
 
